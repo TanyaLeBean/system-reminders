@@ -1,6 +1,6 @@
-[ ] Example one, not completed
-[/] Example two, in progress/partially completed
-	[ ] Sub-remider example
-	[/]
-	[X]
-[X] Example three, completed
+[ ] Example one, not completed <br />
+[/] Example two, in progress/partially completed <br />
+===[ ] Sub-remider example <br />
+===[/] <br />
+===[X] <br />
+[X] Example three, completed <br />
