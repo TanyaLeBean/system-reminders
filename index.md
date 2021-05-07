@@ -5,4 +5,5 @@
 - NO jokes
 - ONLY serious stuff. OK?
 
-[ ] Figure out who Emma is
+[\] Figure out who Emma is
+-- Name Emily, not Emma
